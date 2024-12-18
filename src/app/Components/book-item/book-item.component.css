@@ -1,0 +1,9 @@
+.book-item {
+    cursor: pointer;
+}
+
+.book-item:hover {
+    color: #ffffff; 
+    transform: scale(1.1); 
+    transition: 700ms;
+}

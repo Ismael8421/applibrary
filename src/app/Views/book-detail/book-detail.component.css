@@ -1,0 +1,24 @@
+.detail-book{
+    background-color: #E04738;
+    height: 600px;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.button{
+    background-color: #42E08A;
+    border: transparent;
+    border-radius: 5px;
+    height: 80px;
+    width: 200px;
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+.button:hover {
+    color: #ffffff; 
+    transform: scale(1.1); 
+    transition: 1s;
+}

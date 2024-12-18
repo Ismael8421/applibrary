@@ -1,0 +1,21 @@
+.list-books{
+    height: 50px;
+    width: 300px;
+}
+
+.item{
+    background-color: burlywood;
+    height: 150px;
+    width: 1420px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    left: 50px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.item:hover{
+    box-shadow: 8px 8px 16px grey;
+    transition: 500ms;
+}
